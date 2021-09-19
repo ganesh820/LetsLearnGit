@@ -20,7 +20,7 @@ if __name__ == '__main__':
             password='root').load()
         return df1
 
-
+    print ("hello")
     source_df = read_from_mysql_db('sys_config', 'sys')
     source_df.show()
 
