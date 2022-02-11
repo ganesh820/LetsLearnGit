@@ -7,7 +7,7 @@ if __name__ == '__main__' :
 
     for x in range(n, -1, -1) :
         # reverse_string = reverse_string + input_str[x]
-        print(x)
+        print("panlindrome is"+ x)
 
 
 # lst1 = [1,2,3,4,5]
