@@ -4,4 +4,4 @@ if __name__ == '__main__' :
 
     c = a * b
 
-    print("Result is : "+ str(c))
+    print("multiply Result is : "+ str(c))
